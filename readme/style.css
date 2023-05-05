@@ -1,0 +1,12 @@
+body {
+    background: #121212;
+}
+
+.title {
+    text-decoration: none;
+    color: lightskyblue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.title:hover {
+    text-decoration: underline;
+}
